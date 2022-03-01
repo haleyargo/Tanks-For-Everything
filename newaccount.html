@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Tanks For Everything</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/app.css">
+
+  <meta name="theme-color" content="#fafafa">
+  <link rel="stylesheet" href="https://use.typekit.net/nto5ldt.css">
+  <script src="https://kit.fontawesome.com/71b904c59f.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body class="new-account">
+
+<section class="icons">
+
+    <section class="logo">
+        <img src = "img/logo.svg" alt = "logo" height = 80>
+    </section>
+    
+    <section class = "back" onclick="history.back()">
+      <i class="fa-solid fa-arrow-left"></i>
+    </section>
+
+    <section class = "cart">
+     <a href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+    </section>
+
+    <section class = "help">
+      <i class="fa-solid fa-question"></i>
+    </section>
+
+</section>
+
+
+
+
+    <section class="help-pop hidden">
+      <div class="help1">
+        <h2>would you like assistance?</h2>
+        <button class="small-button yes">yes</button>
+        <button class="small-button no">no</button>
+            <img src = "img/help1.svg" alt = "logo" height = 100>
+      </div>
+
+      <div class="help2 hidden">
+        <h2>help is on the way.</h2>
+              <img src = "img/help2.svg" alt = "logo" height = 100>
+              <button class="small-button ok">ok</button>
+      </div>
+    </section>
+
+
+<main>
+  <div class="left">
+    <h1>Tanks for choosing <br>Tanks for Everything.</h1>
+    <p class="bio">Tanks for Everything has been the leading fish tank supplier since 1976. <br>If you would like to join the school, please enter some information below.<br><span class="italic">All fields are required.</span></p>
+  </div>
+
+  <section class="right">
+  <form class="register">
+    <label for="name">First Name</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="surname">Last Name</label>
+    <input type="text" id="surname" name="surname" required>
+
+    <label for="surname">Email</label>
+    <input type="text" id="surname" name="surname">
+
+    <label for="surname">phone #</label>
+    <input type="text" id="surname" name="surname">
+
+    <label for="surname">password</label>
+    <input type="text" id="surname" name="surname">
+
+    <button type="submit">Submit</button>
+  </form>
+  </section>
+</main>
+
+</body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/app.js"></script>
+</html>

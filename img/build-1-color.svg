@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Group_9" data-name="Group 9" transform="translate(2008 979)">
+    <path id="Ellipse_2" data-name="Ellipse 2" d="M64,9a55,55,0,1,0,55,55A55.062,55.062,0,0,0,64,9m0-9A64,64,0,1,1,0,64,64,64,0,0,1,64,0Z" transform="translate(-2008 -979)" fill="#0281af"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(7.524 6.19)">
+      <path id="Icon_awesome-fish" data-name="Icon awesome-fish" d="M18.332,6.75c-5.042,0-9.445,3.069-11.9,5.7l-4.894-3.7A.932.932,0,0,0,.02,9.566l1.355,6.151L.02,21.869a.932.932,0,0,0,1.521.822l4.894-3.7c2.451,2.626,6.855,5.7,11.9,5.7,7.7,0,13.949-7.173,13.949-8.967S26.035,6.75,18.332,6.75Zm4.9,10.312a1.345,1.345,0,1,1,1.345-1.345A1.345,1.345,0,0,1,23.231,17.062Z" transform="translate(-1967.465 -936.606)" fill="#0281af"/>
+      <g id="Group_4" data-name="Group 4" transform="translate(-1985 -945)">
+        <path id="Rectangle_30" data-name="Rectangle 30" d="M7,7V41.62H51.982V7H7M0,0H58.982V48.62H0Z" transform="translate(4.384)" fill="#0281af"/>
+        <path id="Line_5" data-name="Line 5" d="M66.952,4H0A4,4,0,0,1-4,0,4,4,0,0,1,0-4H66.952a4,4,0,0,1,4,4A4,4,0,0,1,66.952,4Z" transform="translate(0 1.993)" fill="#0281af"/>
+        <path id="Line_6" data-name="Line 6" d="M66,4H0A4,4,0,0,1-4,0,4,4,0,0,1,0-4H66a4,4,0,0,1,4,4A4,4,0,0,1,66,4Z" transform="translate(0.476 45.81)" fill="#0281af"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+
+-----BOTH-----
+
+index.html            home - returning/new
+
+popup.html            help me pop-up
+
+mainmenu.html         what would you like to do?
+						-build tank or account buttons
+
+build.html            select tank choices
+						-size
+						-filter
+						-light
+						-gravel
+							-plants pop-up
+								-add to cart, adds to cart icon
+
+account.html          your account
+						-previous orders
+						-order details appear as popup
+							-reorder button, adds to cart
+						-edit information button
+
+cart.html             view cart
+						-we think you might like pop-up
+							-air stone
+							-indian almond leaves
+							-water quality testing kits
+								-add to cart, adds to cart icon
+						-edit cart
+						-processing pop-up
+
+pay.html		  	  insert or tap card 
+
+confirmation.html     order confirmation
+						-finish or view account
+
+
+-----RETURNING-----
+
+login.html    enter email to access account
+	-welcome back pop-up
+
+-----NEW-----
+
+
+newaccount.html       enter information
+	-welcome pop-up
+
+
+
+
+
+	-----------abby notes--------------
+
+	
